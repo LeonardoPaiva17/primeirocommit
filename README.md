@@ -1,7 +1,7 @@
 
 📙 Comandos do GitHub!
 
->p
+
 *git add*:
    ⮑Move as alterações do diretório de trabalho para a área de staging;
 *git branch*:
